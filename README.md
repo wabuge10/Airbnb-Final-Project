@@ -7,8 +7,8 @@ This project aims to use machine learning and deep learning to predict the base 
 
 Additional context: I previously worked for a year and a half at an Airbnb property management company, as head of the team responsible for pricing, revenue and analysis. Decisions made during the course of this project are therefore informed by domain expertise in this industry.
 
-The Dataset
+## The Dataset
 The dataset used for this project comes from insideairbnb.com
 
-Limitations
+## Limitations
 The biggest problem is that the data is quite messy and which is a huge disadvantage in that it only includes the advertised price(which is sometimes called the 'sticker' price).The sticker price is the overall nightly price that is advertised to potential guests, rather than the actual average amount paid per night by previous guests. The advertised prices can be set to any arbitrary amount by the host, and hosts that are less experienced with Airbnb will often set these to very low. A more accurate version could be built using data on the actual average nightly rates paid e.g from sites like AirDNA that sell higher quality Airbnb data.
